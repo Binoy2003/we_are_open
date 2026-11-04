@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#171815" />
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#7B856B" stroke-width="1.5" stroke-opacity="0.4" />
+  <!-- Monogram KE stylized -->
+  <path d="M 18,18 L 18,46 M 18,18 L 38,18 M 18,32 L 32,32 M 18,46 L 38,46" stroke="#F2F2EC" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <circle cx="44" cy="46" r="3" fill="#7B856B" />
+</svg>
+
